@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions:  handling of edge cases. The `factorial` function is implemented recursively, but it lacks a base case for negative input, leading to infinite recursion and a stack overflow. The solution demonstrates how to add error handling to prevent this.
